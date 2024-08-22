@@ -1,11 +1,22 @@
 # Iot-based-smart-parking
 IoT-based Smart Parking System automates parking management using an ESP32 microcontroller, RFID, and IR sensors. It displays available slots on a mobile app, local display, and website, handles billing automatically, and maintains customer data.
 
-# Circuit Digram
+## Circuit Digram
 
 Circuit Digram will be added soon.
 
-# Key Features
+## Components Used
+- ESP32 Microcontroller
+- RFID Module
+- IR Sensors
+- Servo Motors
+- RGB LEDs
+- Display
+- Blynk App for mobile interface
+  
+
+
+## Key Features
 Real-Time Slot Availability: Provides live updates on parking space availability through a mobile app, a local display at the entrance, and a local network website, ensuring users can quickly find and access open parking spots.
 
 Automatic Barriers: Equipped with IR sensors and a Servo Motor to manage automatic barriers at parking entrances and exits, allowing smooth and controlled vehicle flow without manual operation.
